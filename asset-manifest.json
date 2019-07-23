@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/helmet-test/static/css/main.34de6062.chunk.css",
+    "main.js": "/helmet-test/static/js/main.b95060e1.chunk.js",
+    "main.js.map": "/helmet-test/static/js/main.b95060e1.chunk.js.map",
+    "runtime~main.js": "/helmet-test/static/js/runtime~main.0fd91361.js",
+    "runtime~main.js.map": "/helmet-test/static/js/runtime~main.0fd91361.js.map",
+    "static/js/2.db9edd5f.chunk.js": "/helmet-test/static/js/2.db9edd5f.chunk.js",
+    "static/js/2.db9edd5f.chunk.js.map": "/helmet-test/static/js/2.db9edd5f.chunk.js.map",
+    "index.html": "/helmet-test/index.html",
+    "precache-manifest.f45d938b50e0b06fd4d70f2771a26e8c.js": "/helmet-test/precache-manifest.f45d938b50e0b06fd4d70f2771a26e8c.js",
+    "service-worker.js": "/helmet-test/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/helmet-test/static/css/main.34de6062.chunk.css.map"
+  }
+}
